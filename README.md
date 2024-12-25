@@ -24,11 +24,15 @@ Jika Anda ingin mencoba proyek ini, silakan ikuti langkah-langkah berikut:
 1. Clone repository ini menggunakan perintah:
    ```bash
    git clone <url-repo>
-2. Install semua depedensi yang diperlukan dengan perintah 
-Apabila Anda ingin melakukan cloning repository dan ingin mencobanya, silahkan ikut langkah berikut:
-1. Clone repository ini menggunakan perintah git clone
-2. Lakukan install depedensi menggunakna perintah pip install -r requirements.txt
-3. Untuk masuk ke notebook, anda dapat gunakan perintah jupyter-notebook .
-4. Untuk menjalankan dashboard, Anda dapat menggunakan perintah python run dashboard.py
+2. Install semua depedensi yang diperlukan dengan perintah
+   ```bash
+   pip install -r requirements.txt
+3. Untuk mengakses Notebook, jalankan perintah:
+   ```bash
+   jupyter-notebook .
+5. Untuk menjalankan dashboard interaktif, gunakan perintah:
+   ```bash
+   python run dashboard.py
 
- Apabila Anda melakukan cloning repo atau mendapatkan pelajaran berharga dari sini, harap berikan feedback terhadap hasil analisis saya. Terima kasih.
+## **Feedback**
+Jika Anda melakukan cloning repository ini atau memperoleh wawasan dari proyek ini, saya sangat menghargai jika Anda dapat memberikan feedback terhadap hasil analisis saya. Terima kasih atas perhatian dan dukungan Anda!
