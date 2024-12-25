@@ -32,7 +32,7 @@ Jika Anda ingin mencoba proyek ini, silakan ikuti langkah-langkah berikut:
    jupyter-notebook .
 5. Untuk menjalankan dashboard interaktif, gunakan perintah:
    ```bash
-   python run dashboard.py
+   streamlit run dashboard.py
 
 ## **Feedback**
 Jika Anda melakukan cloning repository ini atau memperoleh wawasan dari proyek ini, saya sangat menghargai jika Anda dapat memberikan feedback terhadap hasil analisis saya. Terima kasih atas perhatian dan dukungan Anda!
