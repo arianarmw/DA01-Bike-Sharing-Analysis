@@ -1,6 +1,6 @@
 # DA01-Bike-Sharing-Analysis
 
-Proyek ini merupakan proyek Data Analysis pertama saya, yang diberi kode **DA01**. Dalam proyek ini, saya menggunakan **Bike Sharing Dataset** yang tersedia di [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset/data). 
+Proyek ini merupakan proyek Data Analysis, yang diberi kode **DA01**. Dalam proyek ini, saya menggunakan **Bike Sharing Dataset** yang tersedia di [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset/data). 
 
 Pada analisis ini, saya menerapkan beberapa langkah utama, yaitu:
 - **Data Wrangling**: Membersihkan dan mempersiapkan data untuk analisis.
